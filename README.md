@@ -18,7 +18,7 @@ With this process you can actually target a whole country's network infrastructu
 
 I know that alot of people that already know it, I just want to write about it, because I find it interesting.
 
-Good luck and stay safe (even if no one is safe).
+Good luck and stay safe (however no one is safe).
 
 # RESOURCES:
 
