@@ -3,7 +3,7 @@
 I was pentesting on a website, And as you know reconaissance is a important step in penetration testing, So as anyone would do. 
 I wanted to get some subdomains, There is lot of recon processes to do so for me , always I start with ASN discovery. 
 I went to https://bgp.he.net I noticed the ASN number of my ISP, So I clicked on it and it redirect me to another page. 
-A big list of CIDR's popped up, So I fired up MassDns and I gave it the list of those CIDR's and it started to grab IP addresses and I was able to grab all the online machines of 4 CIDR's (It will take a lot of time, and I don't have that time) included in thoes IP addresses some of them are not secure. 
+A big list of CIDR's popped up, So I fired up MassDns and I gave it the list of those CIDR's and it started to grab IP addresses and I was able to grab all the online machines of 4 CIDR's (It will take a lot of time, and I don't have that time) included in those IP addresses some of them are not secure. 
 With this process you can actually target a whole country's network infrastructure which is actually dangerous.
 
 ![alt text](https://i.imgur.com/h37siEA.png)
